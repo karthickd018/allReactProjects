@@ -1,0 +1,21 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+.task-input {
+  margin-bottom: 20px;
+}
+input {
+  padding: 5px;
+  margin-right: 10px;
+}
+button {
+  padding: 5px 10px;
+}
+ul {
+  list-style: none;
+  padding: 0;
+}
+li {
+  margin: 10px 0;
+}
